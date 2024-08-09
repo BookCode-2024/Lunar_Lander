@@ -15,6 +15,8 @@ Created on Thu Nov 30 17:25:42 2023
 
 #详细介绍：https://gymnasium.farama.org/environments/box2d/lunar_lander/
 
+#Tensorflow1.13.1 and Keras2.2.4
+
 import gym
 from keras.models import Model
 from keras.layers import Input, Flatten, Dense
